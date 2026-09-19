@@ -8,9 +8,11 @@
   />
 </div>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="150" />
-  <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="150" />
-  <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="150" />
+  <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="33.3%" />
+  <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="33.3%" />
+  <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="33.3%" />
+  <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="33.3%" />
+  <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="33.3%" />
 </div>
 
 ## <span style="color:skyblue">Jussi</span>
