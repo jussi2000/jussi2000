@@ -60,11 +60,11 @@ Currently learning more about C#, web development and databases.
 
 <p align="center">
 
-<a href="YOUR_INSTAGRAM_URL">
+<a href="https://www.instagram.com/us3rjuss/">
   <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="YOUR_DISCORD_URL">
+<a href="https://discord.com/channels/@me/1035690335663296554">
   <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
