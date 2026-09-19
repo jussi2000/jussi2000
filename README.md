@@ -1,49 +1,41 @@
 <div align="center">
 
-<div>
-  <img
-    src="YOUR_BANNER_IMAGE_URL"
-    width="100%"
-    alt="banner"
-  />
-</div>
-<br>
+# <span style="background: linear-gradient(to right, #6EE7B7, #3B82F6, #9333EA); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Jussi</span>
 
-<h1 align="center">Jussi</h1>
-
-<div>
-  <code>Student Developer</code>
-  <code>Software Development</code>
+<p>
+  <code>Student Developer</code> &nbsp;•&nbsp; 
+  <code>Software Development</code> &nbsp;•&nbsp; 
   <code>Estonia</code>
-</div>
+</p>
 
-<div>
-  <i>
-    I keep breaking my codes, help
-  </i>
-</div>
-
-<br>
+<em>I keep breaking my codes, help</em>
 
 ---
 
-<h2>About me!</h2>
+### About me!
 
-Hi, I'm Jussi.
-
+Hi, I’m Jussi.  
 ~ Aspiring Junior Software Developer ~ I mostly enjoy Graphic Design
 
+<br>
 
-Currently learning more about C#, web development and databases.
+> 💻 **Current Status:** Debugging a single line of CSS for 3 hours and questioning my life choices.
 
 <br>
+
+<!-- Playful Easter Egg Button -->
+<button onclick="alert('🚨 WARNING: You clicked the forbidden button. Your computer will now transform into a toaster. (Just kidding, but good job breaking rules!)')" style="background-color: #7c3aed; color: white; border: none; padding: 10px 20px; border-radius: 8px; font-weight: bold; cursor: pointer; transition: 0.2s;">
+  Do Not Click 🛑
+</button>
+
+</div>
 
 ---
 
 <p align="center">
   <a href="https://www.instagram.com/us3rjuss/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=15&pause=1000&color=E4405F&center=true&vCenter=true&random=true&width=410&lines=check+out+my+instagram%21+%3AD%3B%3E%3E%3E+My+instagram+%3C%3C%3C%3BCmon%2C+CLICK+HERE+%21+NOW+%21%2111%21%2111%3B%3E%3E+%5BMY+INSTAGRAM%5D+%3C%3C%3BYou%27re+not+gonna+click+here%2C+are+you%3F+%3E%3A%2F%3BHelloooo%2C+are+you+even+thereeee%3F+%3E%3AI%3Bwow.+my+instagram.+so+cool.+click+here.+now.&v=6" alt="Insta Animation" /></a><a href="https://discord.dog/jussu-tomat1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=15&pause=1000&color=5865F2&center=true&vCenter=true&random=true&width=410&lines=check+out+my+discord%21+%3AD%3B%3E%3E%3E+My+Discord+%3C%3C%3C%3BCmon%2C+CLICK+HERE+%21+NOW+%21%2111%21%2111%3B%3E%3E+%5BMY+DISCORD%5D+%3C%3C%3BYou%27re+not+gonna+click+here%2C+are+you%3F+%3E%3A%2F%3BHelloooo%2C+are+you+even+thereeee%3F+%3E%3AI%3Bwow.+my+discord.+so+cool.+click+here.+now.&v=6" alt="Discord Animation" /></a>
 </p>
- 
+
 ---
 
 <div>
@@ -54,8 +46,6 @@ Currently learning more about C#, web development and databases.
   <img alt="JavaScript" width="50px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="TSQL" width="50px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 </div>
-
----
 
 ---
 </div>
