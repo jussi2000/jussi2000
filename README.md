@@ -42,11 +42,11 @@ Currently learning more about C#, web development and databases.
 
 <div align="center">
   <a href="https://www.instagram.com/us3rjuss/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=15&pause=1000&color=E4405F&center=true&vCenter=true&random=true&width=410&lines=check+out+my+instagram!+:D;%3E%3E%3E+My+instagram+%3C%3C%3C;Cmon,+CLICK+HERE+!+NOW+!!11!!11;%3E%3E+[MY+INSTAGRAM]+%3C%3C;You're+not+gonna+click+here,+are+you%3F+%3E:/;Helloooo,+are+you+even+thereeee%3F+%3E:I;wow.+my+instagram.+so+cool.+click+here.+now.&v=3" align="center" alt="Insta Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=15&pause=1000&color=E4405F&center=true&vCenter=true&random=true&width=360&lines=check+out+my+instagram!+:D;%3E%3E%3E+My+instagram+%3C%3C%3C;Cmon,+CLICK+HERE+!+NOW+!!11!!11;%3E%3E+[MY+INSTAGRAM]+%3C%3C;You're+not+gonna+click+here,+are+you%3F+%3E:/;Helloooo,+are+you+even+thereeee%3F+%3E:I;wow.+my+instagram.+so+cool.+click+here.+now.&v=4" align="center" alt="Insta Animation" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.dog/jussu-tomat1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=15&pause=1000&color=5865F2&center=true&vCenter=true&random=true&width=410&lines=check+out+my+discord!+:D;%3E%3E%3E+My+Discord+%3C%3C%3C;Cmon,+CLICK+HERE+!+NOW+!!11!!11;%3E%3E+[MY+DISCORD]+%3C%3C;You're+not+gonna+click+here,+are+you%3F+%3E:/;Helloooo,+are+you+even+thereeee%3F+%3E:I;wow.+my+discord.+so+cool.+click+here.+now.&v=3" align="center" alt="Discord Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=15&pause=1000&color=5865F2&center=true&vCenter=true&random=true&width=360&lines=check+out+my+discord!+:D;%3E%3E%3E+My+Discord+%3C%3C%3C;Cmon,+CLICK+HERE+!+NOW+!!11!!11;%3E%3E+[MY+DISCORD]+%3C%3C;You're+not+gonna+click+here,+are+you%3F+%3E:/;Helloooo,+are+you+even+thereeee%3F+%3E:I;wow.+my+discord.+so+cool.+click+here.+now.&v=4" align="center" alt="Discord Animation" />
   </a>
 </div>
 
