@@ -7,14 +7,18 @@
     alt="banner"
   />
 </div>
-<br>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="150" />
+  <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="150" />
+  <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="150" />
+</div>
 
 ## <span style="color:skyblue">Jussi</span>
 
 <div>
-  <code>Student Developer</code>
-  <code>Software Development</code>
-  <code>Estonia</code>
+  <code>Jr. Software Dev (2nd-Year)</code>
+  <code>bday: 07/29</code>
+  <code>Estonian</code>
 </div>
 
 <div>
