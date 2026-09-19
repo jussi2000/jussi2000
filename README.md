@@ -1,113 +1,74 @@
-<!-- ============================================ -->
-<!--                  BANNER                      -->
-<!-- ============================================ -->
+<div align="center">
 
-<p align="center">
+<div>
   <img
     src="YOUR_BANNER_IMAGE_URL"
     width="100%"
-    alt="Jussi banner"
+    alt="banner"
   />
-</p>
-
+</div>
 <br>
-
-<!-- ============================================ -->
-<!--                    INTRO                     -->
-<!-- ============================================ -->
 
 <h1 align="center">Jussi</h1>
 
-<p align="center">
+<div>
   <code>Student Developer</code>
   <code>Software Development</code>
   <code>Estonia</code>
-</p>
+</div>
 
-<p align="center">
+<div>
   <i>
-    Building things, breaking things, and occasionally figuring out
-    why the thing I just built broke.
+    I keep breaking my codes, help
   </i>
-</p>
+</div>
 
 <br>
 
 ---
 
-## About Me
+<h2>About me!</h2>
 
 Hi, I'm Jussi.
 
-* Aspiring Junior Software Developer * I mostly enjoy Graphic Design
+~ Aspiring Junior Software Developer ~ I mostly enjoy Graphic Design
 
-I'm especially interested in:
-
-- Web development
-- UI and visual design
-- Game development
-- Programming
-- Databases
-- Creative personal projects
 
 Currently learning more about C#, web development and databases.
 
 <br>
 
----
+<div align="center">
+  <a href="https://www.instagram.com/us3rjuss/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&pause=1000&color=E4405F&center=true&vCenter=true&random=true&width=450&lines=check+out+my+instagram!+:D;%3E%3E%3E+My+instagram+%3C%3C%3C;Cmon,+CLICK+HERE+!+NOW+!!11!!11;%3E%3E+[MY+INSTAGRAM]+%3C%3C;You're+not+gonna+click+here,+are+you%3F+%3E:/;Helloooo,+are+you+even+thereeee%3F+%3E:I;wow.+my+instagram.+so+cool.+click+here.+now.&v=2" align="center" alt="Insta Animation" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.dog/jussu-tomat1">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&pause=1000&color=5865F2&center=true&vCenter=true&random=true&width=450&lines=check+out+my+discord!+:D;%3E%3E%3E+My+Discord+%3C%3C%3C;Cmon,+CLICK+HERE+!+NOW+!!11!!11;%3E%3E+[MY+DISCORD]+%3C%3C;You're+not+gonna+click+here,+are+you%3F+%3E:/;Helloooo,+are+you+even+thereeee%3F+%3E:I;wow.+my+discord.+so+cool.+click+here.+now.&v=2" align="center" alt="Discord Animation" />
+  </a>
+</div>
 
-## Connect
-
-<p align="center">
-
-<a href="https://www.instagram.com/us3rjuss/">
-  <img src="https://cdn.discordapp.com/attachments/1275787427801337939/1550938081744523354/Untitled20_20260919213406.png?ex=6ab02725&is=6aaed5a5&hm=2f5b7b1e9dffb47632383b792e368bbe9df01b4cd3c20df2851dce5a64a74d8e" />
-</a>
-
-<a href="https://discord.dog/jussu-tomat1">
-  <img src="https://cdn.discordapp.com/attachments/1275787427801337939/1550940072239431710/Untitled20_20260919214201.png?ex=6ab02900&is=6aaed780&hm=7d4e846e4c5956ee7d77176e5774412abe77853cf447bb2f95ddb7cb4e37d277" />
-</a>
-
-</p>
-
-<br>
-
----
-
-## Languages I've used in my projects
-<img i="left" alt="C#" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img i="left" alt="HTML5" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img i="left" alt="CSS3" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img i="left" alt="JavaScript" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img i="left" alt="TSQL" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-<br>
-<br>
+<div>
+  <h2>Languages I've used in my projects</h2>
+  <img alt="C#" width="50px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img alt="HTML5" width="50px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" width="50px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" width="50px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="TSQL" width="50px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+</div>
 
 ---
-## GitHub Activity
+<h2>GitHub Activity</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=us3rjuss&bg_color=121212&color=00FFFF&line=E4405F&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jussi2000&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff"
-    height="170"
-  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=us3rjuss&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jussi2000&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9"
-    height="170"
-  />
-</p>
-
-<br>
-
-<p align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=jussi2000&hide_border=true&background=0d1117&ring=58a6ff&fire=ff9d5c&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=777777"
-  width="70%"
-/>
-
-</p>
-
-<br>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=us3rjuss&layout=donut&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+</div>
+---
