@@ -39,12 +39,7 @@
 
 Hi, I'm Jussi.
 
-I'm a student software developer from Estonia currently studying
-software development at Tallinna Tööstushariduskeskus.
-
-I enjoy building websites, experimenting with different designs,
-learning new programming languages, and creating projects that are
-both functional and visually interesting.
+* Aspiring Junior Software Developer * I mostly enjoy Graphic Design
 
 I'm especially interested in:
 
