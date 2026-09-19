@@ -61,19 +61,11 @@ Currently learning more about C#, web development and databases.
 <p align="center">
 
 <a href="https://www.instagram.com/us3rjuss/">
-  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://cdn.discordapp.com/attachments/1275787427801337939/1550938081744523354/Untitled20_20260919213406.png?ex=6ab02725&is=6aaed5a5&hm=2f5b7b1e9dffb47632383b792e368bbe9df01b4cd3c20df2851dce5a64a74d8e" />
 </a>
 
-<a href="https://discord.com/channels/@me/1035690335663296554">
-  <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/jussi2000">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://discord.dog/jussu-tomat1">
+  <img src="https://cdn.discordapp.com/attachments/1275787427801337939/1550940072239431710/Untitled20_20260919214201.png?ex=6ab02900&is=6aaed780&hm=7d4e846e4c5956ee7d77176e5774412abe77853cf447bb2f95ddb7cb4e37d277" />
 </a>
 
 </p>
@@ -82,22 +74,16 @@ Currently learning more about C#, web development and databases.
 
 ---
 
-## Languages & Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,java,html,css,tsql" />
-
-</p>
-
-<p align="center">
-  C# &nbsp;&nbsp; Java &nbsp;&nbsp; HTML &nbsp;&nbsp; CSS &nbsp;&nbsp; T-SQL
-</p>
-
+## Languages I've used in my projects
+<img i="left" alt="C#" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img i="left" alt="HTML5" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img i="left" alt="CSS3" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img i="left" alt="JavaScript" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img i="left" alt="TSQL" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<br>
 <br>
 
 ---
-
 ## GitHub Activity
 
 <p align="center">
@@ -125,28 +111,3 @@ Currently learning more about C#, web development and databases.
 
 <br>
 
----
-
-## Contribution Activity
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=jussi2000&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ff9d5c&area=true&hide_border=true"
-  width="95%"
-/>
-
-</p>
-
-<br>
-
----
-
-## What I'm Working On
-
-```text
-[ WEB DEVELOPMENT ]     ███████████████░░░░░
-[ C# / .NET ]            ████████████░░░░░░░
-[ DATABASES ]             ██████████░░░░░░░░░
-[ UI / DESIGN ]           ██████████████░░░░░
-[ GAME DEVELOPMENT ]      ████████░░░░░░░░░░░
