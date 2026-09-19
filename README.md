@@ -7,11 +7,11 @@
     alt="banner"
   />
 </div>
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="33.3%" />
-  <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="33.3%" />
-  <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="33.3%" />
-  <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="33.3%" />
+
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="31%" />
+  <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="31%" />
+  <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="31%" />
 </div>
 
 ## <span style="color:skyblue">Jussi</span>
