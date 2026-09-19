@@ -12,7 +12,6 @@
   <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="33.3%" />
   <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="33.3%" />
   <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="33.3%" />
-  <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="33.3%" />
 </div>
 
 ## <span style="color:skyblue">Jussi</span>
