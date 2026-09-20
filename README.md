@@ -62,7 +62,19 @@
 
 ---
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jussi2000&theme=react-dark)](https://github.com/jussi2000)
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jussi2000&theme=react-dark" width="95%">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jussi2000&theme=dark" width="70%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=jussi2000&theme=mac" width="90%">
+</p>
 
 ---
 </div>
