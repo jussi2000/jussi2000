@@ -61,4 +61,8 @@
 </div>
 
 ---
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jussi2000&theme=react-dark)](https://github.com/jussi2000)
+
+---
 </div>
