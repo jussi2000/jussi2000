@@ -60,6 +60,8 @@
 ---
 <h1>GitHub Activity</h1>
 
+<br>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=jussi2000&theme=dark" width="70%">
 </p>
