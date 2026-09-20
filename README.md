@@ -36,7 +36,7 @@
 
 ### **Hi, I'm Jussi :D**
 
-_~ Aspiring Junior Software Developer ~ I mostly enjoy Graphic Design ~_
+_**~ Aspiring Junior Software Developer ~ I mostly enjoy Graphic Design ~**_
 
 <br>
 
