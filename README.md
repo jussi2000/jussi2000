@@ -14,10 +14,8 @@
   <img src=".idea/download__1_-removebg-preview.png" alt="My Image" width="31%" />
 </div>
 
-<!------------------------->
-<div align="center">
-  <span style="font-size: 24px; font-weight: bold; color: skyblue;">Jussi</span>
-</div>
+---
+<h1>Jussi</h1>
 
 <div>
   <code>Jr. Software Dev (2nd-Year)</code>
@@ -29,53 +27,40 @@
   <i>
     I keep breaking my codes, help.
   </i>
-</div>
-
 <br>
-
-<!------------------------->
-<div align="center">
-  <span style="font-size: 24px; font-weight: bold; color: skyblue;">About me!</span>
 </div>
 
+---
+<h1>About me!</h1>
 ### **Hi, I'm Jussi :D**
 
 **_~ Aspiring Junior Software Developer ~ I mostly enjoy Graphic Design ~_**
 
 <br>
 
-<!------------------------->
-<div align="center">
-  <span style="font-size: 24px; font-weight: bold; color: skyblue;">Connect</span>
-</div>
+---
+<h1>Connect</h1>
 
 <p align="center">
   <a href="https://www.instagram.com/us3rjuss/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=15&pause=1000&color=E4405F&center=true&vCenter=true&random=true&width=410&lines=check+out+my+instagram%21+%3AD%3B%3E%3E%3E+My+instagram+%3C%3C%3C%3BCmon%2C+CLICK+HERE+%21+NOW+%21%2111%21%2111%3B%3E%3E+%5BMY+INSTAGRAM%5D+%3C%3C%3BYou%27re+not+gonna+click+here%2C+are+you%3F+%3E%3A%2F%3BHelloooo%2C+are+you+even+thereeee%3F+%3E%3AI%3Bwow.+my+instagram.+so+cool.+click+here.+now.&v=6" alt="Insta Animation" /></a><a href="https://discord.dog/jussu-tomat1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=15&pause=1000&color=5865F2&center=true&vCenter=true&random=true&width=410&lines=check+out+my+discord%21+%3AD%3B%3E%3E%3E+My+Discord+%3C%3C%3C%3BCmon%2C+CLICK+HERE+%21+NOW+%21%2111%21%2111%3B%3E%3E+%5BMY+DISCORD%5D+%3C%3C%3BYou%27re+not+gonna+click+here%2C+are+you%3F+%3E%3A%2F%3BHelloooo%2C+are+you+even+thereeee%3F+%3E%3AI%3Bwow.+my+discord.+so+cool.+click+here.+now.&v=6" alt="Discord Animation" /></a>
 </p>
 
-<!------------------------->
+---
 <div>
-
-<div align="center">
-  <span style="font-size: 24px; font-weight: bold; color: skyblue;">Languages I've used in my projects:</span>
-</div>
-<br>
+  <h1>Languages I've used in my projects:</h1>
   <img alt="C#" width="50px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img alt="HTML5" width="50px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS3" width="50px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" width="50px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="TSQL" width="50px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 </div>
-<br>
-<!------------------------->
 
-<div align="center">
-  <span style="font-size: 24px; font-weight: bold; color: skyblue;">GitHub Activity</span>
-</div>
+---
+<h1>GitHub Activity</h1>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=jussi2000&theme=dark" width="70%">
 </p>
 
-<!------------------------->
+---
 </div>
